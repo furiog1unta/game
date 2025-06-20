@@ -1,4 +1,3 @@
-# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -20,18 +19,14 @@ var/
 .installed.cfg
 *.egg
 
-# PyGame
 *.pyc
 
-# Game specific
 high_score.json
 
-# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# OS
 .DS_Store
 Thumbs.db 
