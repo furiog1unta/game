@@ -32,7 +32,7 @@ GOLD = (255, 215, 0)
 
 
 try:
-    PLAYER_IMAGE = pygame.image.load(os.path.join("assets", "dodle_jump.png"))
+    PLAYER_IMAGE = pygame.image.load(os.path.join("assets", "hero.png"))
     PLAYER_IMAGE = pygame.transform.scale(PLAYER_IMAGE, (PLAYER_WIDTH, PLAYER_HEIGHT))
 except:
     PLAYER_IMAGE = None
